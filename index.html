@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Estudos Bíblicos - Dons Espirituais e Libertação & Batalha Espiritual">
+  <meta name="theme-color" content="#1a365d">
+  <title>Estudos Bíblicos | Ebooks</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <!-- Tela inicial -->
+  <div id="home" class="screen active">
+    <header class="hero">
+      <div class="hero-content">
+        <div class="logo">📖</div>
+        <h1>Estudos Bíblicos</h1>
+        <p class="subtitle">Ebooks com explicação versículo a versículo</p>
+      </div>
+    </header>
+
+    <main class="books-grid">
+      <article class="book-card" data-book="dons">
+        <div class="book-cover cover-dons">
+          <span class="book-number">01</span>
+          <h2>Dons Espirituais</h2>
+          <p>1 Coríntios 12</p>
+        </div>
+        <div class="book-info">
+          <p>Descubra os dons do Espírito Santo, sua diversidade, unidade e propósito para a edificação da igreja.</p>
+          <button class="btn-read" onclick="openBook('dons')">Ler Ebook</button>
+        </div>
+      </article>
+
+      <article class="book-card" data-book="batalha">
+        <div class="book-cover cover-batalha">
+          <span class="book-number">02</span>
+          <h2>Libertação &amp;<br>Batalha Espiritual</h2>
+          <p>Efésios 6 · 2 Coríntios 10</p>
+        </div>
+        <div class="book-info">
+          <p>Entenda a armadura de Deus, a natureza da batalha espiritual e como viver em liberdade em Cristo.</p>
+          <button class="btn-read" onclick="openBook('batalha')">Ler Ebook</button>
+        </div>
+      </article>
+    </main>
+
+    <footer class="footer">
+      <p>Estudos Bíblicos • Versículo a Versículo</p>
+    </footer>
+  </div>
+
+  <!-- Leitor de Ebook -->
+  <div id="reader" class="screen">
+    <header class="reader-header">
+      <button class="btn-back" onclick="closeBook()" aria-label="Voltar">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <path d="M19 12H5M12 19l-7-7 7-7"/>
+        </svg>
+      </button>
+      <h1 id="reader-title">Título</h1>
+      <div class="reader-actions">
+        <button class="btn-icon" onclick="changeFontSize(-1)" title="Diminuir fonte">A−</button>
+        <button class="btn-icon" onclick="changeFontSize(1)" title="Aumentar fonte">A+</button>
+        <button class="btn-icon" onclick="toggleTheme()" title="Alternar tema">◐</button>
+      </div>
+    </header>
+
+    <div class="progress-bar">
+      <div id="progress" class="progress-fill"></div>
+    </div>
+
+    <article id="reader-content" class="reader-content">
+      <!-- Conteúdo injetado via JS -->
+    </article>
+
+    <nav class="reader-nav">
+      <button id="btn-prev" class="btn-nav" onclick="prevChapter()" disabled>← Anterior</button>
+      <span id="chapter-indicator">1 / 1</span>
+      <button id="btn-next" class="btn-nav" onclick="nextChapter()">Próximo →</button>
+    </nav>
+  </div>
+
+  <script src="js/content.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
