@@ -1,53 +1,52 @@
-# Estudos Bíblicos — Ebooks
+# Estudos Bíblicos — Ebooks para Pregação
 
-Aplicativo web de ebooks com dois estudos bíblicos completos, explicação **versículo a versículo**.
+Aplicativo web de ebooks com **8 estudos bíblicos completos** no estilo pentecostal, com explicação **versículo a versículo**, pontos de pregação e apelos.
 
-## Ebooks incluídos
+## Estudos incluídos
 
-1. **Dons Espirituais**  
-   Texto principal: 1 Coríntios 12 (com Romanos 12 e Efésios 4)  
-   Explicação detalhada sobre a diversidade, unidade e propósito dos dons do Espírito Santo.
-
-2. **Libertação & Batalha Espiritual**  
-   Textos principais: Efésios 6:10-18 e 2 Coríntios 10:3-5  
-   Estudo sobre a armadura de Deus, a natureza da batalha espiritual e como viver em liberdade em Cristo.
+| # | Título | Textos principais |
+|---|--------|-------------------|
+| 01 | **Salvação** | João 3 · Romanos 3, 5, 10 · Efésios 2 |
+| 02 | **Arrependimento** | Atos 2 · 2 Coríntios 7 · Lucas 15 |
+| 03 | **O Espírito Santo** | João 14-16 · Atos 1-2 |
+| 04 | **Poder do Alto** | Atos 1:8 · Lucas 24:49 · Marcos 16 |
+| 05 | **Avivamento** | 2 Crônicas 7:14 · Joel 2 · Atos 2 |
+| 06 | **Arrebatamento e Sinais** | 1 Tessalonicenses 4 · Mateus 24 · 1 Coríntios 15 |
+| 07 | **Dons Espirituais** | 1 Coríntios 12 · Romanos 12 · Efésios 4 |
+| 08 | **Libertação & Batalha Espiritual** | Efésios 6 · 2 Coríntios 10 |
 
 ## Como usar
 
-Basta abrir o arquivo `index.html` em qualquer navegador moderno (Chrome, Firefox, Safari, Edge).
+Abra o arquivo `index.html` em qualquer navegador moderno.
 
-Ou, se preferir um servidor local:
+Ou use um servidor local:
 
 ```bash
-# Com Python
 python -m http.server 8080
-
-# Com Node (npx)
+# ou
 npx serve .
 ```
 
-Acesse `http://localhost:8080`.
-
 ## Recursos
 
-- Layout responsivo (funciona bem no celular)
+- Layout responsivo (celular e desktop)
 - Tema claro / escuro
 - Ajuste de tamanho de fonte
 - Navegação por capítulos
 - Barra de progresso
-- Atalhos de teclado: ← → (capítulos) e Esc (voltar)
+- Atalhos: ← → (capítulos) e Esc (voltar)
 
 ## Estrutura
 
 ```
-├── index.html          # Página principal + leitor
-├── css/style.css       # Estilos
+├── index.html
+├── css/style.css
 ├── js/
-│   ├── content.js      # Conteúdo dos ebooks
-│   └── app.js          # Lógica do aplicativo
+│   ├── content.js   # Todos os estudos
+│   └── app.js       # Lógica do leitor
 └── README.md
 ```
 
 ---
 
-*Estudos Bíblicos • Versículo a Versículo*
+*Estudos Bíblicos para Pregação Pentecostal • Versículo a Versículo*

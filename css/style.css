@@ -496,3 +496,35 @@ body {
     max-width: 100%;
   }
 }
+
+/* ===== CORES DAS CAPAS ===== */
+.cover-salvacao {
+  background: linear-gradient(160deg, #0f4c81 0%, #1a6bb5 45%, #c9a227 100%);
+}
+.cover-arrependimento {
+  background: linear-gradient(160deg, #5c2a2a 0%, #8b3a3a 45%, #c9a227 100%);
+}
+.cover-espirito {
+  background: linear-gradient(160deg, #1a365d 0%, #2b6cb0 40%, #63b3ed 100%);
+}
+.cover-poder {
+  background: linear-gradient(160deg, #2d1b4e 0%, #553c9a 40%, #d69e2e 100%);
+}
+.cover-avivamento {
+  background: linear-gradient(160deg, #742a2a 0%, #c53030 40%, #ed8936 100%);
+}
+.cover-arrebatamento {
+  background: linear-gradient(160deg, #1a365d 0%, #2c5282 35%, #ecc94b 100%);
+}
+.cover-dons {
+  background: linear-gradient(160deg, #1a365d 0%, #2c5282 40%, #c9a227 100%);
+}
+.cover-batalha {
+  background: linear-gradient(160deg, #2d1b4e 0%, #4a2c6a 40%, #8b4513 100%);
+}
+
+/* Grid com mais livros */
+.books-grid {
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  max-width: 1100px;
+}
