@@ -1,25 +1,31 @@
 # Estudos Bíblicos — Ebooks para Pregação
 
-Aplicativo web de ebooks com **8 estudos bíblicos completos** no estilo pentecostal, com explicação **versículo a versículo**, pontos de pregação e apelos.
+Aplicativo web com **8 estudos bíblicos longos e completos** no estilo pentecostal, com explicação **versículo a versículo**, esboços de pregação, aplicações e apelos.
 
-## Estudos incluídos
+## Estudos incluídos (versões expandidas)
 
-| # | Título | Textos principais |
-|---|--------|-------------------|
-| 01 | **Salvação** | João 3 · Romanos 3, 5, 10 · Efésios 2 |
-| 02 | **Arrependimento** | Atos 2 · 2 Coríntios 7 · Lucas 15 |
-| 03 | **O Espírito Santo** | João 14-16 · Atos 1-2 |
-| 04 | **Poder do Alto** | Atos 1:8 · Lucas 24:49 · Marcos 16 |
-| 05 | **Avivamento** | 2 Crônicas 7:14 · Joel 2 · Atos 2 |
-| 06 | **Arrebatamento e Sinais** | 1 Tessalonicenses 4 · Mateus 24 · 1 Coríntios 15 |
-| 07 | **Dons Espirituais** | 1 Coríntios 12 · Romanos 12 · Efésios 4 |
-| 08 | **Libertação & Batalha Espiritual** | Efésios 6 · 2 Coríntios 10 |
+| # | Título | Capítulos | Textos principais |
+|---|--------|-----------|-------------------|
+| 01 | **Salvação** | 6 | João 3 · Romanos 3, 5, 10 · Efésios 2 · 2 Co 5 |
+| 02 | **Arrependimento** | 5 | Atos 2–3 · 2 Co 7 · Lucas 15 · Marcos 1 |
+| 03 | **O Espírito Santo** | 5 | João 14–16 · Atos 1–2 · Gálatas 5 · Efésios 5 |
+| 04 | **Poder do Alto** | 5 | Atos 1:8 · Lucas 24 · Marcos 16 · 1 Co 2 |
+| 05 | **Avivamento** | 5 | 2 Crônicas 7:14 · Joel 2 · Atos 2 · Habacuque 3 |
+| 06 | **Arrebatamento e Sinais** | 4 | 1 Ts 4 · Mateus 24 · 1 Co 15 · Tito 2 |
+| 07 | **Dons Espirituais** | 5 | 1 Co 12–14 · Romanos 12 · Efésios 4 · 1 Pe 4 |
+| 08 | **Libertação & Batalha Espiritual** | 5 | Efésios 6 · 2 Co 10 · Tiago 4 · 1 Pedro 5 |
+
+Cada estudo inclui:
+- Introdução teológica
+- Explicação versículo a versículo
+- Desenvolvimento por pontos
+- Aplicação prática
+- Esboço pronto para pregação
+- Perguntas de exame e apelo
 
 ## Como usar
 
-Abra o arquivo `index.html` em qualquer navegador moderno.
-
-Ou use um servidor local:
+Abra `index.html` no navegador ou:
 
 ```bash
 python -m http.server 8080
@@ -27,25 +33,14 @@ python -m http.server 8080
 npx serve .
 ```
 
-## Recursos
+## Recursos do app
 
-- Layout responsivo (celular e desktop)
-- Tema claro / escuro
-- Ajuste de tamanho de fonte
+- 8 ebooks completos
 - Navegação por capítulos
-- Barra de progresso
-- Atalhos: ← → (capítulos) e Esc (voltar)
-
-## Estrutura
-
-```
-├── index.html
-├── css/style.css
-├── js/
-│   ├── content.js   # Todos os estudos
-│   └── app.js       # Lógica do leitor
-└── README.md
-```
+- Tema claro / escuro
+- Ajuste de fonte
+- Layout responsivo
+- Atalhos: ← → e Esc
 
 ---
 
