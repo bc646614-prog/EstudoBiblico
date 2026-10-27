@@ -1443,5 +1443,205 @@ const BOOKS = {
         `
       }
     ]
+  },
+isca: {
+    title: "A Isca de Satanás",
+    subtitle: "Ofensa, Perdão e Liberdade · Mateus 18 · 2 Coríntios 2 · Efésios 4",
+    chapters: [
+      {
+        title: "Introdução",
+        content: `
+          <h1>A Isca de Satanás</h1>
+          <p class="subtitle">Estudo Completo para Pregação — Ofensa e Perdão (baseado nas Escrituras)</p>
+          <div class="intro">
+            <p>Uma das estratégias mais eficazes de Satanás contra a igreja é a <strong>ofensa</strong>. A ofensa é a isca: parece justificada, alimenta o orgulho e o sentimento de “direito”, e prende o coração em amargura, ressentimento e divisão. Jesus, Paulo e os apóstolos trataram com seriedade o perdão e a reconciliação. Quem engole a isca da ofensa entrega terreno ao adversário.</p>
+            <p>Este estudo é fundamentado nas Escrituras. O livro popular de John Bevere, <em>A Isca de Satanás</em>, trata deste tema de forma ampla e é leitura recomendada como complemento — porém o conteúdo a seguir é exclusivamente bíblico.</p>
+            <p><strong>Textos-chave:</strong> Mateus 18:7, 15-35 · 2 Coríntios 2:10-11 · Efésios 4:26-32 · Hebreus 12:14-15 · Colossenses 3:13 · Marcos 11:25 · Provérbios 18:19 · 1 Pedro 2:19-23</p>
+          </div>
+        `
+      },
+      {
+        title: "1. O Que É a Isca",
+        content: `
+          <h2>1. O Que É a Isca da Ofensa</h2>
+
+          <div class="verse">
+            <strong>Mateus 18:7</strong><br>
+            “Ai do mundo, por causa das ofensas; porque é mister que venham ofensas, mas ai daquele homem por quem vem a ofensa!”
+          </div>
+          <div class="explanation">
+            <p>Jesus afirma que ofensas <strong>hão de vir</strong>. Elas são inevitáveis neste mundo caído. Porém há um “ai” tanto sobre o mundo quanto sobre quem causa ofensa. A ofensa (skandalon) é armadilha, pedra de tropeço. Satanás usa ofensas reais ou imaginárias como isca para capturar o coração.</p>
+          </div>
+
+          <div class="verse">
+            <strong>2 Coríntios 2:10-11</strong><br>
+            “E a quem perdoardes alguma coisa, também eu; porque, se eu também perdoei alguma coisa, a quem perdoei, por amor de vós o fiz na presença de Cristo, para que não sejamos vencidos por Satanás; porque não ignoramos os seus ardis.”
+          </div>
+          <div class="explanation">
+            <p>Paulo liga diretamente a <strong>falta de perdão</strong> aos ardis de Satanás. Quando nos recusamos a perdoar, damos vantagem ao adversário. “Não ignoramos os seus ardis” — a ofensa não perdoada é uma das principais estratégias do diabo contra a unidade e a alegria da igreja.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Hebreus 12:14-15</strong><br>
+            “Segui a paz com todos e a santificação, sem a qual ninguém verá o Senhor, tendo cuidado de que ninguém se prive da graça de Deus, e de que nenhuma raiz de amargura, brotando, vos perturbe, e por ela muitos se contaminem.”
+          </div>
+          <div class="explanation">
+            <p>A ofensa não resolvida vira <strong>raiz de amargura</strong>. Essa raiz perturba a pessoa e contamina a muitos. A amargura é contagiosa: divide famílias, igrejas e ministérios. A paz e a santificação exigem que cortemos essa raiz.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Provérbios 18:19</strong><br>
+            “O irmão ofendido é mais difícil de conquistar do que uma cidade forte; e as contendas são como ferrolhos de castelo.”
+          </div>
+          <div class="explanation">
+            <p>A ofensa cria muralhas. Quanto mais tempo passa, mais difícil fica a reconciliação. Por isso o evangelho insiste em tratar a ofensa com urgência.</p>
+          </div>
+        `
+      },
+      {
+        title: "2. O Ensino de Jesus sobre Ofensa",
+        content: `
+          <h2>2. O Ensino de Jesus sobre Ofensa e Perdão</h2>
+
+          <div class="verse">
+            <strong>Mateus 18:15-17</strong><br>
+            “Ora, se teu irmão pecar contra ti, vai e repreende-o entre ti e ele só; se te ouvir, ganhaste a teu irmão; mas, se não te ouvir, leva ainda contigo um ou dois, para que, pela boca de duas ou três testemunhas, toda palavra seja confirmada. E, se não as escutar, dize-o à igreja; e, se também não escutar a igreja, considera-o como um gentio e publicano.”
+          </div>
+          <div class="explanation">
+            <p>Jesus dá um processo claro: (1) ir a sós; (2) levar uma ou duas testemunhas; (3) levar à igreja. O objetivo é <strong>ganhar o irmão</strong>, não destruí-lo. Muitos engolem a isca e falam com todo mundo, menos com a pessoa envolvida — isso alimenta a ofensa em vez de resolvê-la.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Mateus 18:21-22</strong><br>
+            “Então, Pedro, aproximando-se dele, disse: Senhor, até quantas vezes pecará meu irmão contra mim, e eu hei de perdoar? Até sete? Jesus lhe disse: Não te digo que até sete, mas até setenta vezes sete.”
+          </div>
+          <div class="explanation">
+            <p>Pedro queria um limite. Jesus remove o limite. O perdão cristão não é contagem de ofensas; é estilo de vida. “Setenta vezes sete” aponta para perdão sem medida, como o de Deus para conosco.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Mateus 18:23-35 (resumo da parábola)</strong><br>
+            O rei perdoa uma dívida impagável ao servo; o servo não perdoa uma dívida pequena ao companheiro. O rei o entrega aos algozes até que pague tudo. “Assim vos fará também meu Pai celestial, se do coração não perdoardes, cada um a seu irmão, as suas ofensas.”
+          </div>
+          <div class="explanation">
+            <p>Quem foi perdoado de uma dívida enorme (nossos pecados contra Deus) não tem o direito de reter ofensas pequenas contra o próximo. O perdão que recebemos deve fluir para os outros. Recusar perdoar coloca a pessoa sob disciplina e sofrimento desnecessários.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Marcos 11:25</strong><br>
+            “E, quando estiverdes orando, se tendes alguma coisa contra alguém, perdoai-lhe, para que vosso Pai, que está nos céus, vos perdoe as vossas ofensas.”
+          </div>
+          <div class="explanation">
+            <p>O perdão está ligado à oração eficaz e ao recebimento do perdão de Deus. Guardar ofensa bloqueia a comunhão com o Pai.</p>
+          </div>
+        `
+      },
+      {
+        title: "3. Como Não Engolir a Isca",
+        content: `
+          <h2>3. Como Não Engolir a Isca</h2>
+
+          <div class="verse">
+            <strong>Efésios 4:26-27</strong><br>
+            “Irai-vos e não pequeis; não se ponha o sol sobre a vossa ira. Não deis lugar ao diabo.”
+          </div>
+          <div class="explanation">
+            <p>A ira em si pode ocorrer, mas não deve permanecer. “Não se ponha o sol sobre a vossa ira” — trate no mesmo dia. Guardar ira é <strong>dar lugar ao diabo</strong>. A ofensa prolongada é porta aberta.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Efésios 4:31-32</strong><br>
+            “Toda amargura, e cólera, e ira, e gritaria, e blasfêmias, e toda malícia sejam tiradas de entre vós. Antes, sede uns para com os outros benignos, misericordiosos, perdoando-vos uns aos outros, como também Deus vos perdoou em Cristo.”
+          </div>
+          <div class="explanation">
+            <p>Lista do que deve ser removido: amargura, cólera, ira, gritaria, blasfêmia, malícia. Em seu lugar: benignidade, misericórdia e perdão — <strong>como Deus nos perdoou em Cristo</strong>. O padrão do perdão é a cruz.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Colossenses 3:13</strong><br>
+            “Suportando-vos uns aos outros e perdoando-vos uns aos outros, se alguém tiver queixa contra outro; assim como Cristo vos perdoou, assim fazei vós também.”
+          </div>
+          <div class="explanation">
+            <p>Suportar + perdoar. Queixas virão; a resposta cristã é perdoar como Cristo perdoou. Não é sentimento primeiro; é decisão de obediência que, com o tempo, libera o coração.</p>
+          </div>
+
+          <div class="verse">
+            <strong>1 Pedro 2:19-23</strong><br>
+            “Porque isto é agradável, que alguém, por causa da consciência para com Deus, sofra agravos, padecendo injustamente... Porque para isto sois chamados, pois também Cristo padeceu por nós, deixando-nos o exemplo, para que sigais as suas pisadas... o qual, quando o ultrajavam, não ultrajava, e, quando padecia, não ameaçava, mas entregava-se àquele que julga justamente.”
+          </div>
+          <div class="explanation">
+            <p>Jesus é o modelo: sofreu injustiça sem revidar e entregou a causa ao Pai. Quem engole a isca revida, fofoca, se vinga ou se fecha. Quem resiste à isca entrega a ofensa a Deus e escolhe o perdão.</p>
+          </div>
+        `
+      },
+      {
+        title: "4. Frutos da Ofensa e do Perdão",
+        content: `
+          <h2>4. Frutos da Ofensa vs. Frutos do Perdão</h2>
+
+          <div class="verse">
+            <strong>Gálatas 5:19-21 (obras da carne relacionadas)</strong><br>
+            “...inimizades, porfias, emulações, iras, pelejas, dissensões, heresias, invejas...”
+          </div>
+          <div class="explanation">
+            <p>A ofensa alimentada produz exatamente isso: inimizade, contenda, ira, divisão. São obras da carne e fecham a porta ao Reino em termos de vivência prática e testemunho.</p>
+          </div>
+
+          <div class="verse">
+            <strong>Mateus 5:23-24</strong><br>
+            “Se, pois, trouxeres a tua oferta ao altar e aí te lembrares de que teu irmão tem alguma coisa contra ti, deixa ali diante do altar a tua oferta, e vai reconciliar-te primeiro com teu irmão, e depois vem e apresenta a tua oferta.”
+          </div>
+          <div class="explanation">
+            <p>A reconciliação tem prioridade até sobre o culto. Deus valoriza o relacionamento restaurado. Oferta sem reconciliação é culto incompleto.</p>
+          </div>
+
+          <div class="verse">
+            <strong>João 13:34-35</strong><br>
+            “Um novo mandamento vos dou: Que vos ameis uns aos outros; como eu vos amei a vós, que também vós uns aos outros vos ameis. Nisto todos conhecerão que sois meus discípulos, se vos amardes uns aos outros.”
+          </div>
+          <div class="explanation">
+            <p>O amor prático — inclusive o perdão — é a marca dos discípulos. Igreja ofendida e dividida perde o testemunho. Igreja que perdoa e se reconcilia brilha.</p>
+          </div>
+        `
+      },
+      {
+        title: "5. Aplicação e Apelo",
+        content: `
+          <h2>5. Aplicação e Apelo</h2>
+          <div class="application">
+            <h3>Esboço para Pregação</h3>
+            <ol>
+              <li><strong>A isca:</strong> Ofensa é armadilha de Satanás (Mt 18:7; 2 Co 2:11).</li>
+              <li><strong>A raiz:</strong> Ofensa não tratada vira amargura e contamina muitos (Hb 12:15).</li>
+              <li><strong>O processo de Jesus:</strong> Ir a sós, testemunhas, igreja — objetivo: ganhar o irmão (Mt 18:15-17).</li>
+              <li><strong>O perdão sem limite:</strong> Setenta vezes sete; parábola do servo impiedoso (Mt 18:21-35).</li>
+              <li><strong>Não dar lugar ao diabo:</strong> Não deixe o sol se pôr sobre a ira (Ef 4:26-27).</li>
+              <li><strong>O padrão:</strong> Perdoar como Cristo nos perdoou (Ef 4:32; Cl 3:13).</li>
+              <li><strong>O modelo:</strong> Jesus sofreu injustiça e entregou-se ao Pai (1 Pe 2:23).</li>
+            </ol>
+            <h3>Perguntas de exame</h3>
+            <ul>
+              <li>Há alguém contra quem você guarda ofensa?</li>
+              <li>Você tem falado da ofensa para outros em vez de ir à pessoa?</li>
+              <li>Sua oração e comunhão com Deus estão bloqueadas por falta de perdão?</li>
+              <li>Você está disposto a perdoar como Cristo o perdoou — por decisão, mesmo sem sentimento ainda?</li>
+            </ul>
+            <h3>Passos práticos</h3>
+            <ol>
+              <li>Identifique a ofensa e confesse a Deus a amargura.</li>
+              <li>Decida perdoar (ato de vontade, baseado na cruz).</li>
+              <li>Se possível e sábio, busque reconciliação conforme Mateus 18.</li>
+              <li>Sempre que a memória voltar, declare de novo o perdão e entregue a Deus.</li>
+              <li>Peça ao Espírito que cure o coração e produza amor genuíno.</li>
+            </ol>
+            <p><strong>Leitura recomendada:</strong> John Bevere, <em>A Isca de Satanás</em> — livro que desenvolve este tema com exemplos e aplicações. Use-o como complemento, sempre confrontando com a Escritura.</p>
+            <p><strong>Apelo:</strong> “Não engula a isca. Solte a ofensa. Perdoe como você foi perdoado. Libertar o outro é libertar a si mesmo. Hoje, diante de Deus, escolha o perdão e feche a porta ao adversário.”</p>
+          </div>
+          <p style="margin-top: 2rem; text-align: center; color: var(--text-muted); font-style: italic;">
+            “Para que não sejamos vencidos por Satanás; porque não ignoramos os seus ardis.” — 2 Coríntios 2:11
+          </p>
+        `
+      }
+    ]
   }
 };

@@ -47,6 +47,11 @@ const BOOK_META = {
     number: "08",
     coverClass: "cover-batalha",
     desc: "A armadura de Deus, a natureza da batalha espiritual e a liberdade em Cristo."
+  },
+  isca: {
+    number: "09",
+    coverClass: "cover-isca",
+    desc: "Ofensa, amargura e perdão. Como não engolir a isca de Satanás e viver livre."
   }
 };
 
@@ -59,7 +64,8 @@ const BOOK_ORDER = [
   "avivamento",
   "arrebatamento",
   "dons",
-  "batalha"
+  "batalha",
+  "isca"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {
