@@ -52,6 +52,16 @@ const BOOK_META = {
     number: "09",
     coverClass: "cover-isca",
     desc: "Ofensa, amargura e perdão. Como não engolir a isca de Satanás e viver livre."
+  },
+  "poder-toque": {
+    number: "10",
+    coverClass: "cover-toque",
+    desc: "Livro completo de Mahesh Chavda. A unção de Deus para curar e o poder do toque daqueles que creem."
+  },
+  "isca-satanas": {
+    number: "11",
+    coverClass: "cover-isca-livro",
+    desc: "Livro completo de John Bevere. Como enfrentar e vencer a ofensa, a armadilha mais enganosa do inimigo."
   }
 };
 
@@ -65,7 +75,9 @@ const BOOK_ORDER = [
   "arrebatamento",
   "dons",
   "batalha",
-  "isca"
+  "isca",
+  "poder-toque",
+  "isca-satanas"
 ];
 
 document.addEventListener("DOMContentLoaded", () => {

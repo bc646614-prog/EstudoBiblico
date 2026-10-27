@@ -1,6 +1,6 @@
 # Estudos Bíblicos — Ebooks para Pregação
 
-Aplicativo web com **9 estudos bíblicos longos e completos** no estilo pentecostal, com explicação **versículo a versículo**, esboços de pregação, aplicações e apelos.
+Aplicativo web com **9 estudos bíblicos longos e completos** no estilo pentecostal, com explicação **versículo a versículo**, esboços de pregação, aplicações e apelos, além de **2 livros completos convertidos para leitura no app** (conteúdo textual extraído dos PDFs, dividido em capítulos).
 
 ## Estudos incluídos (versões expandidas)
 
@@ -24,6 +24,17 @@ Cada estudo inclui:
 - Esboço pronto para pregação
 - Perguntas de exame e apelo
 
+## Livros completos (PDF convertido em conteúdo de leitura)
+
+| # | Título | Autor | Capítulos |
+|---|--------|-------|-----------|
+| 10 | **O Poder Secreto do Toque Daqueles que Creem** | Mahesh Chavda | 14 (apresentação, introdução e 10 capítulos) |
+| 11 | **A Isca de Satanás** | John Bevere | 19 (prefácio, introdução, 14 capítulos, conclusão e epílogo) |
+
+O conteúdo textual dos PDFs foi extraído e convertido para o formato do leitor
+(capítulos, subtítulos, citações e listas). O script de conversão fica em
+`.tools/build_books.py` e gera `js/books-extra.js`.
+
 ## Como usar
 
 Abra `index.html` no navegador ou:
@@ -36,7 +47,7 @@ npx serve .
 
 ## Recursos do app
 
-- 9 ebooks completos
+- 11 ebooks (9 estudos + 2 livros completos)
 - Navegação por capítulos
 - Tema claro / escuro
 - Ajuste de fonte
