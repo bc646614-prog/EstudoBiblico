@@ -532,3 +532,55 @@ body {
 .cover-isca {
   background: linear-gradient(160deg, #1a1a2e 0%, #4a1942 40%, #c53030 100%);
 }
+
+/* Capas dos livros completos (convertidos dos PDFs) */
+.cover-toque {
+  background: linear-gradient(160deg, #1b4332 0%, #2d6a4f 45%, #c9a227 100%);
+}
+.cover-isca-livro {
+  background: linear-gradient(160deg, #3d1a1a 0%, #7f2d2d 45%, #c05621 100%);
+}
+
+/* Elementos dos livros completos */
+.reader-content h4 {
+  font-family: var(--font-sans);
+  font-size: 1.02rem;
+  font-weight: 700;
+  color: var(--accent);
+  margin: 1.4rem 0 0.5rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.reader-content blockquote {
+  background: var(--bg-card);
+  border-left: 4px solid var(--gold);
+  padding: 1rem 1.25rem;
+  margin: 1.25rem 0;
+  border-radius: 0 10px 10px 0;
+  font-family: var(--font-serif);
+  font-size: calc(var(--reader-font-size) * 0.98);
+  line-height: 1.7;
+  font-style: italic;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+}
+.reader-content blockquote em,
+.reader-content blockquote strong {
+  font-style: normal;
+}
+.reader-content .part-label {
+  text-align: center;
+  font-family: var(--font-sans);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--gold);
+  margin: 0.5rem 0 0.25rem;
+}
+.reader-content .signature {
+  text-align: right;
+  color: var(--text-muted);
+}
+.reader-content sup {
+  font-size: 0.7em;
+}
