@@ -1841,5 +1841,155 @@ isca: {
         `
       }
     ]
+  },
+  plano_salvacao: {
+    title: "Plano de Salvação",
+    subtitle: "Da Queda em Gênesis à Cruz de Cristo · Romanos 3:23",
+    chapters: [
+      {
+        title: "Introdução e Esboço",
+        content: `
+          <h1>O Plano de Salvação de Deus</h1>
+          <p class="subtitle">Estudo Detalhado — Da Queda à Cruz</p>
+          <div class="intro">
+            <p><strong>Texto-chave:</strong> “pois todos pecaram e estão destituídos da glória de Deus” (Romanos 3:23).</p>
+            <p>Este estudo percorre o plano redentor de Deus desde a queda em Gênesis, os repetidos chamados ao arrependimento, as alianças da salvação e a profundidade incomparável da entrega de Cristo na cruz — o peso, a humilhação, a dor e o suor de sangue. Jesus, sendo Deus e sendo justo em nos condenar, fez justiça entregando-se em nosso lugar para nos resgatar.</p>
+            <h3>Esboço</h3>
+            <ol>
+              <li>A Queda em Gênesis e o Início do Plano de Salvação</li>
+              <li>Os Chamados Divinos ao Arrependimento ao Longo da História</li>
+              <li>As Alianças de Deus como Instrumentos de Salvação</li>
+              <li>A Profundidade da Entrega de Cristo na Cruz</li>
+              <li>A Justiça de Deus Satisfaita em Cristo</li>
+              <li>Aplicação e Apelo</li>
+            </ol>
+          </div>
+        `
+      },
+      {
+        title: "1. A Queda em Gênesis",
+        content: `
+          <h2>1. A Queda em Gênesis e o Início do Plano de Salvação</h2>
+          <p>Em Gênesis 1–2, Deus cria o homem à Sua imagem, em comunhão perfeita, sem pecado, morte ou separação. O homem recebe domínio, liberdade e um mandamento claro (Gênesis 2:16-17).</p>
+          <p>Em Gênesis 3 ocorre a queda:</p>
+          <ul>
+            <li>A serpente questiona a Palavra de Deus (“É assim que Deus disse?”).</li>
+            <li>Eva e Adão desobedecem.</li>
+            <li>Resultado imediato: vergonha, medo, acusação mútua, expulsão do Éden, morte espiritual e a sentença de morte física (Gênesis 3:7-24).</li>
+          </ul>
+          <div class="verse">
+            <strong>Gênesis 3:15</strong><br>
+            “Porei inimizade entre ti e a mulher, e entre a tua descendência e a sua descendência; esta te ferirá a cabeça, e tu lhe ferirás o calcanhar.”
+          </div>
+          <div class="explanation">
+            <p>Aqui já aparece o primeiro anúncio do evangelho (protoevangelho). Deus promete um Descendente da mulher que esmagará a cabeça da serpente, ainda que sofra. Logo em seguida, Deus mesmo cobre a nudez de Adão e Eva com peles de animais (Gênesis 3:21) — o primeiro sinal de que a cobertura do pecado exige o derramamento de sangue inocente.</p>
+            <p>Desde a queda, a Bíblia revela que o homem está destituído da glória de Deus (Romanos 3:23). O pecado não é apenas atos isolados; é uma condição de separação, culpa e incapacidade de restaurar a comunhão por esforço próprio.</p>
+          </div>
+        `
+      },
+      {
+        title: "2. Chamados ao Arrependimento",
+        content: `
+          <h2>2. Os Chamados de Deus ao Arrependimento</h2>
+          <p>Deus não abandona a humanidade após a queda. Ele continuamente chama o povo ao arrependimento:</p>
+          <ul>
+            <li><strong>Noé</strong> (Gênesis 6–9): prega justiça enquanto a arca é construída (2 Pedro 2:5). O dilúvio é julgamento, mas a arca é graça.</li>
+            <li><strong>Abraão</strong> e os patriarcas: chamados a sair da idolatria e caminhar pela fé.</li>
+            <li><strong>Moisés e os profetas</strong>: repetidamente, “Voltai-vos para mim” (Jeremias 3:12-14; Ezequiel 18:30-32; Joel 2:12-13).</li>
+            <li><strong>João Batista</strong>: “Arrependei-vos, porque é chegado o reino dos céus” (Mateus 3:2).</li>
+            <li><strong>Jesus</strong>: “Arrependei-vos e crede no evangelho” (Marcos 1:15). Ele busca o pecador (Lucas 15 — a ovelha, a moeda e o filho perdido).</li>
+            <li><strong>Os apóstolos</strong>: Pedro em Atos 2:38 e 3:19; Paulo em Atenas (Atos 17:30) — “Deus anuncia a todos os homens, em todo lugar, que se arrependam”.</li>
+          </ul>
+          <div class="explanation">
+            <p>O arrependimento (<em>metanoia</em>) é mudança de mente e direção: deixar o pecado e voltar-se para Deus. Não é meras lágrimas, mas abandono real do caminho antigo e entrega a Cristo.</p>
+          </div>
+        `
+      },
+      {
+        title: "3. As Alianças de Deus",
+        content: `
+          <h2>3. As Alianças de Deus para a Salvação</h2>
+          <p>Deus se relaciona com a humanidade por meio de alianças (pactos), revelando progressivamente o Seu plano:</p>
+          <ul>
+            <li><strong>Aliança Noética</strong> (Gênesis 9): promessa de preservação da criação; o arco-íris como sinal. Deus se compromete com a humanidade apesar do pecado.</li>
+            <li><strong>Aliança Abraâmica</strong> (Gênesis 12, 15, 17): promessa de terra, descendência e bênção a todas as famílias da terra. Justificação pela fé (Gênesis 15:6; Romanos 4). A circuncisão aponta para a necessidade de um coração renovado.</li>
+            <li><strong>Aliança Mosaica</strong> (Êxodo 19–24; Deuteronômio): a Lei revela o pecado (Romanos 3:20; 7:7) e aponta para a necessidade de um mediador e de sacrifícios. Os sacrifícios do Antigo Testamento são sombra do sacrifício perfeito de Cristo (Hebreus 10:1-4, 11-14).</li>
+            <li><strong>Aliança Davídica</strong> (2 Samuel 7): promessa de um rei eterno da linhagem de Davi — cumprida em Jesus, o Filho de Davi.</li>
+            <li><strong>Nova Aliança</strong> (Jeremias 31:31-34; Lucas 22:20; Hebreus 8–10): estabelecida no sangue de Cristo. Perdão dos pecados, lei escrita no coração, conhecimento íntimo de Deus e habitação do Espírito Santo.</li>
+          </ul>
+          <div class="explanation">
+            <p>Todas as alianças convergem em Cristo. Ele é o cumprimento de cada promessa (2 Coríntios 1:20).</p>
+          </div>
+        `
+      },
+      {
+        title: "4. A Profundidade da Cruz",
+        content: `
+          <h2>4. A Profundidade da Entrega de Cristo na Cruz</h2>
+          <p>Jesus, sendo Deus (João 1:1, 14; Filipenses 2:6), tomou a forma de servo e se humilhou até a morte de cruz (Filipenses 2:5-8).</p>
+          <h3>No Getsêmani</h3>
+          <div class="verse">
+            <strong>Lucas 22:44</strong><br>
+            “E, posto em agonia, orava mais intensamente. E o seu suor tornou-se como gotas de sangue caindo sobre a terra.”
+          </div>
+          <div class="explanation">
+            <p>Ele entra em agonia intensa. O “suor de sangue” (hematidrose) — condição rara causada por extremo estresse emocional e físico, em que os capilares se rompem e o sangue se mistura ao suor. A alma dEle “está profundamente triste até a morte” (Mateus 26:38). Ele vê o cálice da ira de Deus contra o pecado de toda a humanidade.</p>
+          </div>
+          <h3>A humilhação e a dor</h3>
+          <ul>
+            <li>Traído por um amigo, abandonado pelos discípulos, negado por Pedro.</li>
+            <li>Julgamentos injustos, cuspidelas, bofetadas, coroação de espinhos, açoites romanos (flagrum) que dilaceravam a carne.</li>
+            <li>Carrega a cruz, é pregado com cravos, exposto nu entre criminosos.</li>
+            <li>Escárnio: “Salvou os outros, a si mesmo não pode salvar” (Mateus 27:42).</li>
+            <li>A dor física era extrema, mas a dor espiritual era maior: “Deus meu, Deus meu, por que me desamparaste?” (Mateus 27:46) — o momento em que o Pai volta o rosto enquanto o Filho carrega o pecado do mundo (2 Coríntios 5:21; Isaías 53:4-6, 10-12).</li>
+          </ul>
+          <p>Ele não apenas morreu; Ele se fez pecado por nós. Tomou sobre Si a maldição da Lei (Gálatas 3:13). Todo o peso da justiça divina contra o pecado recaiu sobre o Justo.</p>
+        `
+      },
+      {
+        title: "5. Justiça Satisfazida",
+        content: `
+          <h2>5. Jesus, Sendo Deus e Justo, Fez Justiça Entregando-Se em Nosso Lugar</h2>
+          <p>Deus é justo. Ele não pode simplesmente “passar por cima” do pecado. A santidade dEle exige que o pecado seja punido (Romanos 3:25-26).</p>
+          <p>Jesus, sendo Deus e perfeitamente justo, tinha todo o direito de nos condenar. Em vez disso:</p>
+          <ul>
+            <li>Ele se colocou em nosso lugar (substituição penal).</li>
+            <li>A justiça de Deus foi plenamente satisfeita na cruz.</li>
+            <li>A graça e a justiça se encontram: Deus permanece justo e, ao mesmo tempo, justifica o que tem fé em Jesus (Romanos 3:26).</li>
+          </ul>
+          <div class="verse">
+            <strong>2 Coríntios 5:21</strong><br>
+            “Aquele que não conheceu pecado, Deus o fez pecado por nós; para que, nele, fôssemos feitos justiça de Deus.”
+          </div>
+          <div class="explanation">
+            <p>Isso é o coração do evangelho: o Justo morrendo pelos injustos, para nos trazer a Deus (1 Pedro 3:18).</p>
+          </div>
+        `
+      },
+      {
+        title: "6. Aplicação e Apelo",
+        content: `
+          <h2>6. Aplicação e Apelo</h2>
+          <ul>
+            <li>Todos pecaram e estão destituídos da glória de Deus (Romanos 3:23).</li>
+            <li>O salário do pecado é a morte, mas o dom gratuito de Deus é a vida eterna em Cristo Jesus (Romanos 6:23).</li>
+            <li>A salvação não é por obras, mas pela graça, mediante a fé (Efésios 2:8-9).</li>
+            <li>É necessário arrependimento genuíno e fé em Cristo como único Salvador e Senhor.</li>
+          </ul>
+          <h3>Perguntas para reflexão</h3>
+          <ol>
+            <li>Você reconhece que está destituído da glória de Deus e precisa de salvação?</li>
+            <li>Você já se arrependeu de verdade e confiou somente em Cristo?</li>
+            <li>Você compreende o preço que Jesus pagou por você?</li>
+          </ol>
+          <div class="explanation">
+            <p><strong>Apelo:</strong> Hoje, se ouvis a Sua voz, não endureçais o coração (Hebreus 3:15). Jesus já fez tudo. Entregue-se a Ele. Arrependa-se e creia no evangelho. Ele o resgata, o justifica, o regenera e o adota como filho.</p>
+          </div>
+          <p style="margin-top: 2rem; text-align: center; color: var(--text-muted); font-style: italic;">
+            “Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna.” — João 3:16
+          </p>
+        `
+      }
+    ]
   }
 };

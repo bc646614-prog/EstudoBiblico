@@ -1,6 +1,6 @@
 # Estudos Bíblicos — Ebooks para Pregação
 
-Aplicativo web com **9 estudos bíblicos longos e completos** no estilo pentecostal, com explicação **versículo a versículo**, esboços de pregação, aplicações e apelos, além de **2 livros completos convertidos para leitura no app** (conteúdo textual extraído dos PDFs, dividido em capítulos).
+Aplicativo web com **10 estudos bíblicos longos e completos** no estilo pentecostal, com explicação **versículo a versículo**, esboços de pregação, aplicações e apelos, além de **2 livros completos convertidos para leitura no app** (conteúdo textual extraído dos PDFs, dividido em capítulos).
 
 ## Estudos incluídos (versões expandidas)
 
@@ -15,6 +15,7 @@ Aplicativo web com **9 estudos bíblicos longos e completos** no estilo pentecos
 | 07 | **Dons Espirituais** | 5 | 1 Co 12–14 · Romanos 12 · Efésios 4 · 1 Pe 4 |
 | 08 | **Libertação & Batalha Espiritual** | 5 | Efésios 6 · 2 Co 10 · Tiago 4 · 1 Pedro 5 |
 | 09 | **A Isca de Satanás** | 5 | Mateus 18 · 2 Co 2 · Efésios 4 · Hebreus 12 |
+| 10 | **Plano de Salvação** | 7 | Gênesis 3 · Romanos 3:23 · Alianças · Cruz · Getsêmani |
 
 Cada estudo inclui:
 - Introdução teológica
@@ -47,7 +48,7 @@ npx serve .
 
 ## Recursos do app
 
-- 11 ebooks (9 estudos + 2 livros completos)
+- 12 ebooks (10 estudos + 2 livros completos)
 - Navegação por capítulos
 - Tema claro / escuro
 - Ajuste de fonte
